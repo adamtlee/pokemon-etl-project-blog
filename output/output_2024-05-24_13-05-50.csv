@@ -1,0 +1,11 @@
+name,id,height,weight,base_experience,types
+bulbasaur,1,7,69,64,"grass, poison"
+ivysaur,2,10,130,142,"grass, poison"
+venusaur,3,20,1000,263,"grass, poison"
+charmander,4,6,85,62,fire
+charmeleon,5,11,190,142,fire
+charizard,6,17,905,267,"fire, flying"
+squirtle,7,5,90,63,water
+wartortle,8,10,225,142,water
+blastoise,9,16,855,265,water
+caterpie,10,3,29,39,bug
